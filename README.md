@@ -16,5 +16,3 @@ The probability density function (pdf) of the chi-square distribution is
 
 where <a href="https://www.codecogs.com/eqnedit.php?latex={\textstyle&space;\Gamma&space;(k/2)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{\textstyle&space;\Gamma&space;(k/2)}" title="{\textstyle \Gamma (k/2)}" /></a> denotes the gamma function, which is given as <a href="https://www.codecogs.com/eqnedit.php?latex={\displaystyle&space;\Gamma&space;(n)=(n-1)!}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{\displaystyle&space;\Gamma&space;(n)=(n-1)!}" title="{\displaystyle \Gamma (n)=(n-1)!}" /></a>
 
-
-*I have used https://www.codecogs.com for formula generation
